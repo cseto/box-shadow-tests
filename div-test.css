@@ -1,0 +1,13 @@
+.greendiv {
+    background: darkgreen;
+    box-shadow: 6px 6px 6px rgba(22, 29, 111, 0.5), 0px 0px 0px 2px white inset;
+    border: 16px solid darkgreen;
+}
+
+.divshadow {
+  box-shadow: 6px 6px 6px rgba(22, 29, 111, 0.5), 0px 0px 0px 2px #fff inset;
+	-webkit-box-shadow: 6px 6px 6px rgba(22, 29, 111, 0.5), 0px 0px 0px 2px #fff inset;
+	-moz-box-shadow: 6px 6px 6px rgba(22, 29, 111, 0.5), 0px 0px 0px 2px #fff inset;
+  background-color: rgb(123, 171, 178);
+  border: 16px solid  rgb(123, 171, 178);
+  }
