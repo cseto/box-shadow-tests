@@ -1,0 +1,10 @@
+$( document ).ready(function() {
+     var tagLine = $("#siteTitleWrapper, .wrapper sqs-frontend-overlay-editor-widget-host");
+     tagLine.append("<h6>Psychotherapy</h6>");
+  var myDropShadow = $(" "); //add id's here services blocks, about img, about, fees
+  
+  myDropShadow.addClass("boxShadow"); //css boxShadow class
+  
+  var myImgBorder = $(" "); //add id's here
+    myImgBorder.addClass("imgBorder"); //css imgBorder class
+});
